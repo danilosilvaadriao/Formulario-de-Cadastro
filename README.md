@@ -7,7 +7,7 @@ Este é um formulário de cadastro criado com base em um vídeo da Rafaella Ball
 
 <h2> Gif do desafio: <h2> <br>
 
-
+![formulario de cadastro](https://user-images.githubusercontent.com/82722083/154603844-bd7a7d76-c50d-439d-8e42-707a70689197.gif)
 
    ## Tecnologias
   - [HTML5](https://html.spec.whatwg.org/multipage/)
